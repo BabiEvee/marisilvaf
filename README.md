@@ -15,14 +15,6 @@
 
 - ⚡ Fun fact **I like drawing, watching anime, listening to music and programming**
 
-<h3 align="left">Connect with me</h3>
-<div align="center"> 
-  
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellynsilvadeveloper@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
-[![Dio.me](https://img.shields.io/badge/-Dio.me-000000?style=for-the-badge&logo=Dio.me&logoColor=white)](https://www.dio.me/users/evellyndev593/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://quicksilver-lab.github.io/EveeSilvaa/)
-
 </div>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Languages and Technologies<p align="center">
@@ -31,10 +23,6 @@
   <img alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
   <img alt="JavaScript" height="60" width="85" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <img alt="Python" height="60" width="85" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
-  <img alt="Typescript" height="60" width="60" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="c-sharp" height="60" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img alt="PHP" height="60" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Frameworks and Libraries<p align="center">
@@ -54,13 +42,5 @@
   <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
 </p>
 
-<!-- Status -->
-## 📊 GitHub Stats: 
-<div>
-  <a href="https://github.com/EveeSilvaa">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marisilvaf&show_icons=true&count_private=true&hide_border=true&title_color=CC6CE7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisilvaf&layout=compact&hide_border=true&title_color=CC6CE7&text_color=00bfbf&bg_color=0d1117" />
-    <img  height="180em" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=marisilvaf&layout=compact&hide_border=true&title_color=CC6CE7&text_color=00bfbf&bg_color=0d1117"/>
-  </a>
-</div>
+
 
